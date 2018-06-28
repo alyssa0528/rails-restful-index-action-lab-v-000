@@ -1,2 +1,4 @@
 class StudentController < ApplicationController
-end 
+  def students 
+  end
+end
